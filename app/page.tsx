@@ -237,7 +237,7 @@ export default function Home() {
         {/* <div className="w-full h-[1px] lg:w-[1px] lg:h-full bg-white/15"></div> */}
 
         <div className="flex flex-col gap-2">
-          <p className="font-medium text-lg lining-nums">Projects (3)</p>
+          <p className="font-medium text-lg lining-nums">Projects (4)</p>
 
           <div className="flex flex-col items-center">
             <a
