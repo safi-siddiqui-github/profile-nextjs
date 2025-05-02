@@ -237,7 +237,20 @@ export default function Home() {
         {/* <div className="w-full h-[1px] lg:w-[1px] lg:h-full bg-white/15"></div> */}
 
         <div className="flex flex-col gap-2">
-          <p className="font-medium text-lg lining-nums">Projects (4)</p>
+          <p className="font-medium text-lg lining-nums">Projects</p>
+
+          <div className="flex flex-col items-center">
+            <a
+              href="https://ba-laravel-main-kxvsj5.laravel.cloud/"
+              target="_blank"
+              className="font-medium hover:underline "
+            >
+              Laravel Booking App
+            </a>
+            <p className="tracking-tight">
+              Book your events online with us !
+            </p>
+          </div>
 
           <div className="flex flex-col items-center">
             <a
