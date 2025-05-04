@@ -241,7 +241,7 @@ export default function Home() {
 
           <div className="flex flex-col items-center">
             <a
-              href="https://ba-laravel-main-kxvsj5.laravel.cloud/"
+              href="https://sves-laravel-main-swbs69.laravel.cloud/"
               target="_blank"
               className="font-medium hover:underline "
             >
