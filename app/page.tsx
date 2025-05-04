@@ -245,6 +245,19 @@ export default function Home() {
               target="_blank"
               className="font-medium hover:underline "
             >
+              Laravel Ecommerce SVES
+            </a>
+            <p className="tracking-tight">
+              Single Vendor Ecommerce Store !
+            </p>
+          </div>
+
+          <div className="flex flex-col items-center">
+            <a
+              href="https://ba-laravel-main-kxvsj5.laravel.cloud/"
+              target="_blank"
+              className="font-medium hover:underline "
+            >
               Laravel Booking App
             </a>
             <p className="tracking-tight">
